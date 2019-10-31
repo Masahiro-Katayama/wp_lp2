@@ -1,0 +1,26 @@
+/*
+ Theme Name:   OnePress_child
+ Theme URI:    https://www.famethemes.com
+ Description:  OnePress sample child theme
+ Author:       FameThemes
+ Author URI:   https://www.famethemes.com
+ Template:     OnePress
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  onepress_child
+*/
+
+/* Add your custom css below
+-------------------------------------------------------------- */
+
+#hero .hero-large-text {
+  font-size: 50px !important;
+}
+
+#footer-widgets #footer-1 #custom_html-3 .textwidget {
+  text-align: center;
+}
+
+#footer-widgets #footer-1 #custom_html-3 .textwidget iframe {
+  width: 100%;
+}
